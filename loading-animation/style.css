@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: #00008bcb;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
